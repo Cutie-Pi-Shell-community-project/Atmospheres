@@ -1,11 +1,11 @@
 Source: cutie-atmospheres
 Section: libs
-Maintainer: Erik Inkinen <erik.inkinen@gmail.com>
+Maintainer: Cutie Shell Developers <admin@cutie-shell.org>
 Priority: optional
 Build-Depends: debhelper (>= 10)
 Standards-Version: 4.5.1
 
-Package: cutie-atmospheres
+Package: cutie-atmospheres-default
 Architecture: all
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${misc:Depends}, ${shlibs:Depends}
